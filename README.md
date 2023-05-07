@@ -1,0 +1,1 @@
+# Django Stroe App
